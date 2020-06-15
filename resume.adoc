@@ -1,0 +1,42 @@
+= Resume of Jay Grabowski
+John (Jay) Grabowski <johnjgrabowski@gmail.com>
+:toc: left
+:icons: font
+
+== Overview
+
+include::overview.adoc[]
+
+
+[NOTE]
+.This resume is code!
+====
+* Fork it @ https://github.com/socket-wrench/resume.git
+====
+
+== Career Interests
+
+include::interests.adoc[]
+
+<<<
+== Experience and Education
+
+'''
+=== Experience at a Glance
+
+include::ataglance.adoc[]
+
+'''
+=== Activities
+
+include::activities.adoc[]
+
+'''
+== Detailed Work History
+
+include::workhist.adoc[]
+
+== References
+
+include::references.adoc[]
+

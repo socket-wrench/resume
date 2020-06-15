@@ -1,0 +1,30 @@
+[cols="40s,40d,20d"]
+|===
+|Senior Systems Engineer
+|American Airlines (AAL)
+|2015 -> 2020
+
+|ISM PowerBroker Support Engineer
+|PayPal Inc. (PYPL via TEKSystems
+|2015
+
+|Senior UNIX Systems Engineer
+|American Traffic Solutions Inc.
+|2013 -> 2014
+
+|Lead Analyst 2
+|USAirways (LCC)
+|2009 -> 2013
+
+|Operations Engineer
+|Limelight Networks (LLNW)
+|2009
+
+|Tier 2 Operations Technician
+|Limelight Networks (LLNW)
+|2007 -> 2009
+
+|Network Operations Technician
+|ATJEU Publishing Inc.
+|2010
+|===

@@ -1,0 +1,32 @@
+System administration, infrastructure automation, infrastructure
+management systems, development tools.
+
+I am a mostly self taught in the field of computing and enjoy 
+mentoring and training.
+
+Throughout my career I have worked on designing, implementing, and
+managing server infrastructure requirements. 
+Specifically leveragin the following skills:
+
+* [*] Troubleshooting and research for server hardware, networking,
+  storage, operating system and applications.
+
+* [*] Operating System Red Hat Enterprise Linux (RHEL), Ubuntu, Debian,
+  FreeBSD, Sun/Oracle Solaris.
+
+* [*] Experience with VMWare hypervisor technology and VCenter.
+
+* [*] Experience with OS management tools like Oracle OpsCenter and
+  Red Hat Satellite.
+
+* [*] Experience in automating operating system and configuration tasks
+  using Ansible, Shell and Python scripting.
+
+* [*] Modern "agile" development process and tools such as git and Rally.
+
+* [*] Writing technical and user documentation using a variety of tools.
+
+* [*] Experience training and mentoring.
+
+* [*] A strong customer service background.
+

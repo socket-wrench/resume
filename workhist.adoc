@@ -1,0 +1,119 @@
+=== Senior Systems Engineer
+****
+American Airlines (AAL)
+
+June 2015 -> June 2020
+
+Automation, engineering, and operations for UNIX and Linux based server
+environments.
+
+* RedHat Enterprise (RHEL) and Ubuntu Linux engineering
+* Oracle Solaris and Oracle Linux system adminstration
+* Operational automation for operations tasks using Shell, Python and Ansible
+* Bare metal build automation using Kickstart, PXEBoot, DNSMasq, and TFTP
+* System patching and repository management using Satellite and Ansible
+* Virtual Machine (VM) provisioning via VMWare VCenter and Orchestration via Morpheus
+* Nagios Core monitoring software installation, configuration and management
+* Installation, Configuration and Maintenance for Oracle Database Appliances (ODA)
+* Training and mentoring for junior team members
+****
+
+=== ISM PowerBroker Support Engineer
+****
+PayPal Inc. (PYPL) via TEKSystems
+
+January 2014 -> March 2015
+
+Support engineer responsible for installing, maintaining and supporting
+PowerBroker software to thousands of servers and maintaining the host 
+environment for PowerBroker.
+
+* RedHat Enterprise (RHEL) and Oracle Solaris administration
+* Automated the deployment of PowerBroker software using Shell scripting
+* Scheduling and change management for PowerBroker deployments
+* Creation of PowerBroker Policies using policy language (C-like)
+* Zenoss Monitoring software deployment, cofiguration and maintainence
+****
+
+=== Senior UNIX Systems Administrator
+****
+American Traffic Solutions Inc.
+
+September 2013 -> December 2014
+
+* Bare Metal system maintenance and installation on SUN SPARC and HPE ProLiant server hardware
+* Red Hat Enterprise Linux (RHEL) and Oracle Solaris administration
+* System patching for RHEL and Solaris servers and VMs
+* Virtual Machine (VM) provisioning via VMWare VCenter
+* Installation, configuration and maintenance of Veritas Cluster Server (aka Infoscale Availability)
+* Monitoring software setup of NetBackup OpsCenter
+* Quantum tape library operations and troubleshooting
+* FTP, SFTP, and FTP/S setup and operations
+* Installation of Oracle ExaData and Oracle Database Appliance
+* Bash, ksh, and expect scripting for automation of operational tasks 
+****
+
+=== Lead Analyst 2
+****
+USAirways (LCC)
+
+December 2009 -> September 2013
+
+System engineering and operations responsible for UNIX and Linux systems
+and backups for all systems
+
+* Fujitsu SPARC, Sun SPARC, HPE ProLiant server installation and maintenance
+* Red Hat Enterprise Linux (RHEL) and Sun Solaris Administration
+* Software and OS patching of RHEL servers
+* Virtual Machine (VM) provisioning via VMWare VCenter
+* Configuration and maintenance of Vertias Cluster Server
+* Tool experience with Nagios, Cacti, HP Service Manager, Twiki, Apache, BIND, GPG, NCFTP
+****
+
+=== Operations Engineer
+****
+Limelight Networks (LLNW)
+
+August 2009 -> December 2009
+
+Responsible for configuration and troubleshooting all aspects of the central
+operational functionality of the content delivery network (CDN)
+
+* FreeBSD, Linux, and Windows System administration
+* Diagnoses and repair of hardware failures for server infrastructure
+* CDN infrastructure and software configuration, tuning, and troubleshooting
+* Software Included: Apache, Squid, ProFTP, BIND, IIS
+* Tier 3 escalation point for service degradation and service failure
+****
+
+=== Tier 2 Operations Technician
+****
+Limelight Networks (LLNW)
+
+June 2007 -> August 2009
+
+Content Deliver Network (CDN) monitoring troubleshooting and technical support
+
+* Monitor network and server infrastructure via Netsaint, Monolith, MRTG, and
+  Nagios
+* Network traffic and BGP monitoring
+* Work with customers to diagnose issues with http/https services, Windows 
+  media streaming, flash streaming, Shoutcast, Real Media, Quicktime
+* Training and assistance for new hires and junior team members
+* Documentation of training materials for new and updated processes
+****
+
+=== Network Operations Technician
+****
+ATJEU Publishing Inc.
+
+June 2010 -> December 2010
+
+Web hosting support and infrastrcture administration and configuration
+
+* Installation and maintenance for server and network hardware
+* CentOS Linux, Debian, OpenBSD and Windows Server administration
+* MySQL, Apache, ProFTP, BIND, IIS, Ples, Virtuozzo and cPanel software
+  troubleshooting and administration
+* Fielded support requests via phone and ticketing system for issues from customers
+****

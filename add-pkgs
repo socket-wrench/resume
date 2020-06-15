@@ -1,0 +1,39 @@
+dnf clean all && rm -rf /var/cache/dnf && dnf -y update
+
+dnf -y install dnf-plugins-core
+
+dnf config-manager --enable centosplus
+
+dnf -y install \
+    make \
+    gcc \
+    ruby \
+    ruby-devel \
+    rubygem-bundler \
+    graphviz \
+    unzip \
+    findutils \
+    wget \
+    which \
+    python3-devel \
+    zlib-devel \
+    patch \
+    sudo \
+    bash \
+    libjpeg-turbo \
+    libjpeg-turbo-devel \
+    asciidoc
+
+cat > Gemfile <<EOF
+source 'https://rubygems.org'
+gem 'asciidoctor'
+gem 'asciidoctor-pdf'
+# or specify the version explicitly
+# gem 'asciidoctor', '1.5.6.1'
+EOF
+
+bundle
+
+echo ""
+echo "add pkg script completed"
+echo ""

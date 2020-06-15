@@ -1,0 +1,5 @@
+- On going - I run a private lab server farm on my own bare
+  metal hardware utilizing VMWare Player, KVM, Docker, CentOS, Ubuntu,
+  Debian, Git, Python, Shell and Ansible.
+- For fun I also enjoy medieval martial arts, camping, hiking, computer
+  games, board games, pod casts and reading.
