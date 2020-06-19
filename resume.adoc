@@ -23,7 +23,7 @@ include::interests.adoc[]
 include::ataglance.adoc[]
 
 '''
-== Detailed Work History
+=== Detailed Work History
 
 include::workhist.adoc[]
 

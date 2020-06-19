@@ -1,5 +1,6 @@
-=== Senior Systems Engineer
 ****
+Senior Systems Engineer
+
 American Airlines (AAL)
 
 June 2015 -> June 2020
@@ -17,8 +18,9 @@ Automation, engineering, and operations for UNIX and Linux based server environm
 * Training and mentoring for junior team members
 ****
 
-=== ISM PowerBroker Support Engineer
 ****
+ISM PowerBroker Support Engineer
+
 PayPal Inc. (PYPL) via TEKSystems
 
 January 2014 -> March 2015
@@ -32,8 +34,10 @@ Support engineer responsible for installing, maintaining and supporting PowerBro
 * Zenoss Monitoring software deployment, configuration and maintenance
 ****
 
-=== Senior UNIX Systems Administrator
+
 ****
+Senior UNIX Systems Administrator
+
 American Traffic Solutions Inc.
 
 September 2013 -> December 2014
@@ -50,8 +54,10 @@ September 2013 -> December 2014
 * Bash, ksh, and expect scripting for automation of operational tasks 
 ****
 
-=== Lead Analyst 2
+
 ****
+Lead Analyst 2
+
 USAirways (LCC)
 
 December 2009 -> September 2013
@@ -66,8 +72,10 @@ System engineering and operations responsible for UNIX and Linux systems and bac
 * Tool experience with Nagios, Cacti, HP Service Manager, Twiki, Apache, BIND, GPG, NCFTP
 ****
 
-=== Operations Engineer
+
 ****
+Operations Engineer
+
 Limelight Networks (LLNW)
 
 August 2009 -> December 2009
@@ -81,8 +89,10 @@ Responsible for configuration and troubleshooting all aspects of the central ope
 * Tier 3 escalation point for service degradation and service failure
 ****
 
-=== Tier 2 Operations Technician
+
 ****
+Tier 2 Operations Technician
+
 Limelight Networks (LLNW)
 
 June 2007 -> August 2009
@@ -96,8 +106,10 @@ Content Deliver Network (CDN) monitoring troubleshooting and technical support
 * Documentation of training materials for new and updated processes
 ****
 
-=== Network Operations Technician
+
 ****
+Network Operations Technician
+
 ATJEU Publishing Inc.
 
 June 2010 -> December 2010
@@ -109,3 +121,4 @@ Web hosting support and infrastructure administration and configuration
 * MySQL, Apache, ProFTP, BIND, IIS, Ples, Virtuozzo and cPanel software troubleshooting and administration
 * Fielded support requests via phone and ticketing system for issues from customers
 ****
+
