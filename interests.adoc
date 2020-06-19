@@ -1,32 +1,21 @@
-System administration, infrastructure automation, infrastructure
-management systems, development tools.
+System administration, infrastructure automation, infrastructure management systems, development tools.
 
-I am a mostly self taught in the field of computing and enjoy 
-mentoring and training.
+I am a primarily self taught in the field of computing and enjoy mentoring and training.
 
-Throughout my career I have worked on designing, implementing, and
-managing server infrastructure requirements. 
-Specifically leveragin the following skills:
+Throughout my career I have worked on designing, implementing, and managing server infrastructure requirements.  Specifically leveraging the following skills:
 
-* [*] Troubleshooting and research for server hardware, networking,
-  storage, operating system and applications.
+** OS management tools: Oracle OpsCenter, Red Hat Satellite, Canonical Landscape
 
-* [*] Operating System Red Hat Enterprise Linux (RHEL), Ubuntu, Debian,
-  FreeBSD, Sun/Oracle Solaris.
+** Automation and configuration management:  Ansible, Shell, Python, Expect, Kickstart
 
-* [*] Experience with VMWare hypervisor technology and VCenter.
+** Operating System installation maintenance and engineering, Red Hat Enterprise Linux (RHEL), Ubuntu, Debian, FreeBSD, Sun/Oracle Solaris
 
-* [*] Experience with OS management tools like Oracle OpsCenter and
-  Red Hat Satellite.
+** Troubleshooting and engineering: server hardware, BIOS/UEFI, networking, storage, operating system and applications
 
-* [*] Experience in automating operating system and configuration tasks
-  using Ansible, Shell and Python scripting.
+** VMWare hypervisor technology and VCenter
 
-* [*] Modern "agile" development process and tools such as git and Rally.
+** Modern "Agile" development process and tools such as Git and Rally
 
-* [*] Writing technical and user documentation using a variety of tools.
+** Writing technical and user documentation using a variety of tools:  Twiki/Wiki, Asciidoc, Markdown
 
-* [*] Experience training and mentoring.
-
-* [*] A strong customer service background.
-
+** Data protection solutions for backup and recovery: Veritas NetBackup, EMC DataDomain, Actifio
