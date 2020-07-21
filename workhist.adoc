@@ -23,7 +23,7 @@ ISM PowerBroker Support Engineer
 
 PayPal Inc. (PYPL) via TEKSystems
 
-January 2014 -> March 2015
+January 2015 -> March 2015
 
 Support engineer responsible for installing, maintaining and supporting PowerBroker software to thousands of servers and maintaining the host environment for PowerBroker.
 
